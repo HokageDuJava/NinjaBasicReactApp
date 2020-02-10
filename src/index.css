@@ -30,3 +30,35 @@ h1 {
   box-shadow: 10px 10px 13px tomato;
   font-weight: 700;
 }
+
+.young {
+  background-color: red;
+  color: white;
+  text-align: center;
+  width: 70%;
+  margin: 5% auto;
+  padding: 20px;
+  border-radius: 30px;
+  border: 2px solid black;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.ninjaForm {
+  width: 50%;
+  margin: 2% auto;
+}
+
+span {
+  color: salmon;
+  font-weight: 800;
+}
+
+.btn-delete {
+  color: white;
+  background-color: red;
+  text-align: center;
+  padding: 9px;
+  border-radius: 15px;
+  margin: auto;
+}
