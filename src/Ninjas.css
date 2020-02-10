@@ -1,0 +1,12 @@
+.ninja {
+  width: 70%;
+  margin: 5% auto;
+  text-align: center;
+  color: white;
+  background-color: salmon;
+  padding: 10px;
+  border: 3px solid black;
+  border-radius: 20px;
+  box-shadow: 10px 10px 13px tomato;
+  font-weight: 700;
+}
